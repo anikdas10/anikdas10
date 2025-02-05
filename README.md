@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/FLG9kR9Z/Marceline-1.jpg"  />
+  <img height="400" src="https://i.ibb.co.com/wZ757ch4/anikdas1085-gmail-com.jpg"  />
 </div>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hello There... I am Anik Das</h1>
 
 ###
 
